@@ -32,6 +32,7 @@ Some of the HTML elements have been replaced with semantic elements for better w
 
 
 * CSS 
+Changed code:
 
 ![CSS code](./assets/screenshots/screenshot-4.jpg)
 
