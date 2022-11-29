@@ -4,7 +4,7 @@
 The Horiseon website aims to offer services to improve and optimize websites content to make them easier to find when customers searching online and achieve better accessibility for all users. This website was created by using semantic HTML and CSS.  
 
 
-## Links
+## Link
 
 Horiseon website link [Horiseon](https://kodeiva.github.io/Horiseon/).
 
@@ -31,9 +31,7 @@ Some of the HTML elements have been replaced with semantic elements for better w
 ![HTML code](./assets/screenshots/screenshot-3.jpg)
 
 
-* CSS
-
-Updated styling codes:
+* CSS 
 
 ![CSS code](./assets/screenshots/screenshot-4.jpg)
 
